@@ -1,0 +1,22 @@
+{
+  "name": "generatemyreadme",
+  "version": "1.0.0",
+  "description": "This is a ReadMe Generator created using node.js using the npm system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishan254/GenerateMyReadMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishan254/GenerateMyReadMe/issues"
+  },
+  "homepage": "https://github.com/kishan254/GenerateMyReadMe#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
