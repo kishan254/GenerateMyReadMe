@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
-// const generateReadme = require('./src/markdown');
+const generateReadme = require('./src/markdown');
 
 // write an app to generate readme
 inquirer
