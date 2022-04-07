@@ -12,7 +12,7 @@
 # Description 
 ### This is an app created using the node.js and inquirer. It allows developers to create a ReadME template quickly for their projects
 # Installation
-### inquirer and fs
+### inquirer, node
 # License
 ### MIT: https://choosealicense.com/licenses/mit/
 # Contributing
