@@ -4,7 +4,7 @@
 
 # Link to walkaround video
 
-![video](https://drive.google.com/file/d/1SpeixxgL5GywEvmIHE-xK-Ol8HxqHtz2/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1SpeixxgL5GywEvmIHE-xK-Ol8HxqHtz2/view?usp=sharing)
 
 # Table of Contents
 * [Description ](#Description)
