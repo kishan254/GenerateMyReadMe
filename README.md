@@ -1,5 +1,5 @@
 
-# Generate my ReadMe
+# GenerateMyReadMe
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Table of Contents
 * [Description ](#Description)
@@ -17,11 +17,11 @@
 # Description 
 ### This is an app that is created using the node.js framework, inwhich a developer can quickly generate ReadMe files for their projects. If you would like to see the video please click on the video link alternatively if you would like to contribute to my project please git pull. Thanks
 # Installation
-### npm install, then to run is npm start
+### npm install
 # License
 ### MIT: https://choosealicense.com/licenses/mit/
 # Contributing
-### You require node.js knowledge
+### git pull 
 # Tests
 ### npm start
 # Questions
