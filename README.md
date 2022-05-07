@@ -12,7 +12,7 @@
 
 # WALK THROUGH VIDEO!
 
-![Video](https://drive.google.com/file/d/1SpeixxgL5GywEvmIHE-xK-Ol8HxqHtz2/view?usp=sharing)
+![Video](images/generate_my_readme.mp4)
 
 # Description 
 ### This is an app that is created using the node.js framework, inwhich a developer can quickly generate ReadMe files for their projects. If you would like to see the video please click on the video link alternatively if you would like to contribute to my project please git pull. Thanks

@@ -108,7 +108,7 @@ ${badgeIcon}
 
 # WALK THROUGH VIDEO!
 
-![Video](https://drive.google.com/file/d/1SpeixxgL5GywEvmIHE-xK-Ol8HxqHtz2/view?usp=sharing)
+![Video](images/generate_my_readme.mp4)
 
 # Description 
 ### ${description}
