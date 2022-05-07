@@ -1,11 +1,6 @@
 
-# Generate my readme app
+# Generate my ReadMe
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-# Link to walkaround video
-
-[Video](https://drive.google.com/file/d/1SpeixxgL5GywEvmIHE-xK-Ol8HxqHtz2/view?usp=sharing)
-
 # Table of Contents
 * [Description ](#Description)
 * [Installation](#Installation)
@@ -14,16 +9,21 @@
 * [Contributing](#Contributing)
 * [Tests](#Tests)
 * [Questions](#Questions)
+
+# WALK THROUGH VIDEO!
+
+![Video](https://drive.google.com/file/d/1SpeixxgL5GywEvmIHE-xK-Ol8HxqHtz2/view?usp=sharing)
+
 # Description 
-### This is an app created using node.js and inquirer in which developers can create a easy go to readme.md file for their projects. This template can be customised to the developer in the index.js file
+### This is an app that is created using the node.js framework, inwhich a developer can quickly generate ReadMe files for their projects. If you would like to see the video please click on the video link alternatively if you would like to contribute to my project please git pull. Thanks
 # Installation
-### install node.js, &  inquirer. Or simply use npm install, because all the dependencies are noted in the package.json file
+### npm install, then to run is npm start
 # License
 ### MIT: https://choosealicense.com/licenses/mit/
 # Contributing
-### Pull from github profile - kishan254 -> you will require knowledge in node.js inquirer and fs to effectively contribute to this repo. I look forward to any collaborations that can make this app better
+### You require node.js knowledge
 # Tests
-### node index.js -> in the terminal
+### npm start
 # Questions
 ### Project Created By: Kishan Gosrani
 ### GitHub User Name: kishan254
