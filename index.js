@@ -108,7 +108,7 @@ ${badgeIcon}
 
 # WALK THROUGH VIDEO!
 
-![Video](images/generate_my_readme.mp4)
+![Video](images/generate-my-readme.gif)
 
 # Description 
 ### ${description}
