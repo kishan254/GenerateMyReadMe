@@ -122,7 +122,7 @@ ${badgeIcon}
 ### ${testCommand}
 # Questions
 ### Project Created By: ${authorName}
-### GitHub User Name: ${gitUser}
+### GitHub User Name:(https://www.github.com/${gitUser})
 ### Email: ${email}`
 }
 
