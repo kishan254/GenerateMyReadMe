@@ -69,7 +69,7 @@ const readmeGen = ({
     gitUser,
     email
 }) => {
-    // badges from https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+    
     let  badgeIcon = "";
     if (license === "APACHE 2.0") {
         badgeIcon = "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
